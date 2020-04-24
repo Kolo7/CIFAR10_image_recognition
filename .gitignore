@@ -1,0 +1,5 @@
+Transfer Learning example/VGG16_for_flower/*
+Transfer Learning example/for_transfer_learning/*
+**/.ipynb_checkpoints/*
+**/__pycache__
+/data
