@@ -3,3 +3,6 @@ Transfer Learning example/for_transfer_learning/*
 **/.ipynb_checkpoints/*
 **/__pycache__
 /data
+/Graph*
+/model
+/CIFAR10_conv_model
