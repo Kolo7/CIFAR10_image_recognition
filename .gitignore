@@ -4,5 +4,4 @@ Transfer Learning example/for_transfer_learning/*
 **/__pycache__
 /data
 /Graph*
-/model
 /CIFAR10_conv_model
